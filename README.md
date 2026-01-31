@@ -1,5 +1,14 @@
-# 💫 About Me:
-🔧 I’m currently working on:<br>Participating in bug bounty programs and pentesting, with a focus on web development and SEO optimization to enhance site performance and visibility.<br><br>🤝 I’m looking to collaborate on:<br>Cybersecurity challenges, CTF competitions, and open-source projects focused on web security, hardware hacking, radio frequency, cloud automation, and DevOps. I'm also eager to explore embedded systems and physical pentesting.<br><br>🚀 I’m looking for help with:<br>Advanced techniques in physical pentesting, hardware exploitation, and IoT security. I’m also interested in deep-dive forensics tools, Kubernetes automation, and refining DevOps practices to expand my cybersecurity toolkit.<br><br>🌱 I’m currently learning:<br>Exploring new strategies for bug hunting and pentesting, diving deeper into RF security and firmware analysis, and sharpening my skills in cloud security, SOC tools, and AI-based cybersecurity solutions.<br><br>💬 Ask me about:<br>CTF strategies, QA automation, Cybersecurity Tools, embedded systems, physical pentesting, radio frequency projects, or DevOps workflows. I also enjoy building home lab SOCs and scripting automation tools.<br><br>⚡ Fun fact:<br>Built a talking doll controlled wirelessly with voice commands from a phone.<br>Built a home SOC lab from scratch, complete with IDS/IPS systems and custom threat dashboards.
+# 👋 Hi, I’m Youssef Haddouk
+
+I work across **security, development, automation, and experimentation**.
+
+GitHub is my technical playground — a place where I:
+- 🔐 break systems (pentesting, bug bounty, CTFs, physical & RF experiments)
+- 🛠 build systems (scripts, tools, web apps, automation)
+- 🧪 stress-test systems (QA, performance, abuse cases)
+- 👀 observe systems (SOC labs, detection engineering, forensics)
+
+This profile reflects **both production experience and experimental work**.
 
 📬 Access to private repositories:
 
@@ -63,7 +72,7 @@ The following is a non-exhaustive overview of the technologies, tools, and frame
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/youssefhaddouk/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@MrHDK) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefhaddouk/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@MrHDK) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
 ---
